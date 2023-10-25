@@ -1,0 +1,12 @@
+ls -> acceder a carpetas
+cd + carpeta -> entrar a carpeta
+cd .. -> ir atras
+is -l -> acceder a todas las carpetas con detalles
+pwd -> para saber en que carpeta estoy
+touch + nombre de archivo-> crear nuevos archivos 
+mkdir + nombre carpeta -> crear nueva carpeta
+mv-> mover archivo o cambiar nombre ej1: mv terminal.txt terminal1.txt (cambia nombre)
+ej2: mv terminal.txt comandos_terminal (carpeta donde se quiere mover)/terminal.txt 
+rm + nombre de archivo-> borrar archivo
+rmdir + nombre carpeta -> borrar carpeta
+rm -rf + nombre carpeta -> borra carpeta no vacía

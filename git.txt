@@ -1,0 +1,4 @@
+1) git init - inicializa una carpeta 
+2) git add . -> agregar todos los archivos a repositorio
+3) git commit -m + "accion" - establecemos punto de guardado
+4) git push -u origin master - aparecerá en pantalla los cambios.
